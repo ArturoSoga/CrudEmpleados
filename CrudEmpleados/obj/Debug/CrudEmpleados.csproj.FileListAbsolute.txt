@@ -1,0 +1,14 @@
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\bin\Debug\CrudEmpleados.exe.config
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\bin\Debug\CrudEmpleados.exe
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\bin\Debug\CrudEmpleados.pdb
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\bin\Debug\EntityFramework.dll
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.AssemblyReference.cache
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.Form1.resources
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.Properties.Resources.resources
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.GenerateResource.cache
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.csproj.CopyComplete
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.exe
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.pdb
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.AddEmplForm.resources
+C:\Users\Arturo\source\repos\CrudEmpleados\CrudEmpleados\obj\Debug\CrudEmpleados.UpdateEmplForm.resources
